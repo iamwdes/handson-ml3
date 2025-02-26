@@ -1,4 +1,6 @@
-机器学习笔记本（中文版，wdes翻译），第三版
+机器学习笔记本（中文版，Wdes翻译），第三版
+================================
+我的学习笔记，顺便翻译部分内容。
 ================================
 
 该项目旨在教您用Python掌握机器学习。它包含了我的O'Reilly书 [使用Scikit-Learn，Keras和Tensorflow（第3版）的第三版中的练习的示例代码和解决方案](https://homl.info/er3)：
@@ -13,7 +15,7 @@
 
 * <a href="https://colab.research.google.com/github/ageron/handson-ml3/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>（推荐）
 
-⚠_colab提供了一个临时环境：一段时间后您所做的任何事情都将被删除，因此请确保下载您关心的所有数据。
+⚠_colab提供了一个临时环境：一段时间后您所做的任何事情都将被删除，因此请确保下载您关心的所有数据。_
 
 <details>
 
