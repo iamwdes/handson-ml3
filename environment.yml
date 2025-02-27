@@ -1,4 +1,4 @@
-name: homl3
+name: handson-ml3
 channels:
   - conda-forge
   - defaults
